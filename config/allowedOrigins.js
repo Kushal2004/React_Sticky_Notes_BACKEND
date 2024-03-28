@@ -4,3 +4,5 @@ const allowedOrigins = [
 ]
 
 module.exports = allowedOrigins
+
+//Hello world
