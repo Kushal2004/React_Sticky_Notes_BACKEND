@@ -1,7 +1,5 @@
 const allowedOrigins = [
-
-    'https://google.com',
-    'http://localhost:3000'
+    'https://mytechnotes.vercel.app'
 ]
 
 module.exports = allowedOrigins
